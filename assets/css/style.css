@@ -62,25 +62,25 @@ img {
 }
 a,
 a:link {
-  color: yellow;
+  color: white;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:visited {
-  color: yellow;
+  color: white;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
-  color: yellow;
+  color: white;
   background-color: transparent;
   text-decoration: underline;
 }
 
 a:active {
-  color: yellow;
+  color: white;
   background-color: transparent;
   text-decoration: underline;
 }
