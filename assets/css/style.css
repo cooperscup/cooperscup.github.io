@@ -828,20 +828,20 @@ font-size: 6rem;
 }
 
 .single_pakeg_one{
-	background:url(../images/hotdrinks.jpg) left center no-repeat;
+	background:url(../images/hot latte.jpg) left center no-repeat;
 	padding:30px;
 	overflow:hidden;
 	margin-top:60px;
 }
 .single_pakeg_two{
-	background:url(../images/cocktail.jpg) right center no-repeat;
+	background:url(../images/latte.jpg) right center no-repeat;
 	padding:30px;	
 	overflow:hidden;
 	margin-top:60px;	
 	
 }
 .single_pakeg_three{
-	background:url(../images/milkshakes.jfif) left center no-repeat;
+	background:url(../images/smoothie.jpg) left center no-repeat;
 	padding:30px;	
 	overflow:hidden;
 	margin-top:60px;	
