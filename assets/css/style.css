@@ -829,20 +829,20 @@ font-size: 6rem;
 
 .single_pakeg_one{
 	background:url(../images/hot latte.jpg) left center no-repeat;
-	padding:30px;
+	padding:10px;
 	overflow:hidden;
 	margin-top:60px;
 }
 .single_pakeg_two{
 	background:url(../images/latte.jpg) right center no-repeat;
-	padding:30px;	
+	padding:10px;	
 	overflow:hidden;
 	margin-top:60px;	
 	
 }
 .single_pakeg_three{
 	background:url(../images/smoothie.jpg) left center no-repeat;
-	padding:30px;	
+	padding:10px;	
 	overflow:hidden;
 	margin-top:60px;	
 	
