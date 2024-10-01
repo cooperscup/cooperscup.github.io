@@ -61,8 +61,29 @@ img {
     user-drag: none;
 }
 a,
-a:hover,
-a:active,
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
 a:focus {
     text-decoration: none;
     outline: none;
