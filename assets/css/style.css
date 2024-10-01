@@ -828,7 +828,7 @@ font-size: 6rem;
 }
 
 .single_pakeg_one{
-	background:url(../images/hot latte.jpg) left center no-repeat;
+	background:url("../images/hot latte.jpg") left center no-repeat;
 	padding:10px;
 	overflow:hidden;
 	margin-top:60px;
