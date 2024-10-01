@@ -682,11 +682,11 @@ a.navbar-brand.our_logo{
 .main_slider {
 	
 }
-.main_slider .main_slider_content h1{
-font-size: 6rem;
+.main_slider .main_slider_content h2{
+font-size: 5.5rem;
     font-family: 'Pacifico', cursive;
     color: #fff;
-    line-height: 6rem;
+    line-height: 5.5rem;
     margin:0px 0px 60px 0px;
 }	
 .main_slider_content{
