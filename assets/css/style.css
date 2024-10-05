@@ -62,25 +62,25 @@ img {
 }
 a,
 a:link {
-  color: black;
+  color: green;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:visited {
-  color: black;
+  color: green;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
-  color: black;
+  color: green;
   background-color: transparent;
   text-decoration: underline;
 }
 
 a:active {
-  color: black;
+  color: green;
   background-color: transparent;
   text-decoration: underline;
 }
